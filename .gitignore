@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+
+# Raw personal finance data
+personal_finances_raw.xlsx
+
+# Generated outputs from personal data
+data/cleaned/
+data/quality/
+
+# Windows metadata junk
+*Zone.Identifier
+
+# OS/editor clutter
+.DS_Store
+Thumbs.db
+
+# Optional privacy hardening for a public repo:
+# data/reference/classification_rules.csv
