@@ -1,0 +1,2 @@
+rows,total_income,total_expenses,net_cash_flow,start_date,end_date,missing_dates,missing_amounts,needs_review_rows,needs_review_unique_details
+286,189200.0,162562.0,26638.0,2024-01-03,2024-06-28,0,0,21,4

@@ -5,12 +5,17 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Raw personal finance data
+# Private local-only financial source files
 personal_finances_raw.xlsx
+data/private/
 
-# Generated outputs from personal data
-data/cleaned/
-data/quality/
+# Local generated outputs from private runs
+/data/cleaned/*
+/data/quality/*
+
+# Keep public sample artifacts tracked
+!/data/quality/cleaning_summary_sample.csv
+!/data/quality/unmapped_details_sample.csv
 
 # Windows metadata junk
 *Zone.Identifier
@@ -18,6 +23,3 @@ data/quality/
 # OS/editor clutter
 .DS_Store
 Thumbs.db
-
-# Optional privacy hardening for a public repo:
-# data/reference/classification_rules.csv

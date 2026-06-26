@@ -1,0 +1,287 @@
+date,year,month,month_name,year_month,category,transaction_direction,amount,signed_amount,detail_raw,detail_clean,detail_grouped,classification_source,shopping_type,expense_type,recurrence,source_file,source_sheet,source_row
+2024-01-03,2024,1,January,2024-01,food,expense,240.0,-240.0,Mango Shake Kiosk,mango_shake_kiosk,needs_review,needs_review,,operating,recurring,raw_transactions_sample.csv,SampleExport,6
+2024-01-03,2024,1,January,2024-01,other_things,expense,300.0,-300.0,gift loft,gift_loft,family_support,exact_rule,,operating,one_off,raw_transactions_sample.csv,SampleExport,6
+2024-01-03,2024,1,January,2024-01,transport,expense,240.0,-240.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,6
+2024-01-04,2024,1,January,2024-01,food,expense,180.0,-180.0,northside grocer,northside_grocer,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,7
+2024-01-04,2024,1,January,2024-01,housing_utilities,expense,4100.0,-4100.0,,,housing_utilities,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,7
+2024-01-04,2024,1,January,2024-01,other_things,expense,420.0,-420.0,Orbit Pharmacy,orbit_pharmacy,healthcare,exact_rule,,operating,one_off,raw_transactions_sample.csv,SampleExport,7
+2024-01-05,2024,1,January,2024-01,food,expense,80.0,-80.0,daily roaster,daily_roaster,snacks_drinks,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,8
+2024-01-08,2024,1,January,2024-01,food,expense,110.0,-110.0,Spark Soda,spark_soda,snacks_drinks,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,9
+2024-01-08,2024,1,January,2024-01,other_things,expense,1350.0,-1350.0,METRO HOME,metro_home,shopping,exact_rule,household,capital,one_off,raw_transactions_sample.csv,SampleExport,9
+2024-01-09,2024,1,January,2024-01,food,expense,110.0,-110.0,Spark Soda,spark_soda,snacks_drinks,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,10
+2024-01-09,2024,1,January,2024-01,housing_utilities,expense,3800.0,-3800.0,,,housing_utilities,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,10
+2024-01-09,2024,1,January,2024-01,transport,expense,45.0,-45.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,10
+2024-01-10,2024,1,January,2024-01,food,expense,250.0,-250.0,pier pizza,pier_pizza,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,11
+2024-01-10,2024,1,January,2024-01,transport,expense,45.0,-45.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,11
+2024-01-11,2024,1,January,2024-01,family,expense,620.0,-620.0,FAMILY MEDICINE,family_medicine,healthcare,exact_rule,,operating,one_off,raw_transactions_sample.csv,SampleExport,12
+2024-01-11,2024,1,January,2024-01,food,expense,120.0,-120.0,Weekend Trip,weekend_trip,needs_review,needs_review,,operating,recurring,raw_transactions_sample.csv,SampleExport,12
+2024-01-11,2024,1,January,2024-01,transport,expense,240.0,-240.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,12
+2024-01-11,2024,1,January,2024-01,food,expense,920.0,-920.0,Harbor-Mart,harbor_mart,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,13
+2024-01-12,2024,1,January,2024-01,food,expense,120.0,-120.0,Corner Cart,corner_cart,needs_review,needs_review,,operating,recurring,raw_transactions_sample.csv,SampleExport,14
+2024-01-12,2024,1,January,2024-01,housing_utilities,expense,3200.0,-3200.0,,,housing_utilities,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,14
+2024-01-12,2024,1,January,2024-01,other_things,expense,2600.0,-2600.0,Pixel  Hub,pixel_hub,home_office,exact_rule,electronics,capital,one_off,raw_transactions_sample.csv,SampleExport,14
+2024-01-12,2024,1,January,2024-01,transport,expense,45.0,-45.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,14
+2024-01-15,2024,1,January,2024-01,food,expense,85.0,-85.0,SPARK SODA,spark_soda,snacks_drinks,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,15
+2024-01-15,2024,1,January,2024-01,income,income,22000.0,22000.0,MONTHLY PAYROLL,monthly_payroll,salary,exact_rule,,income,recurring,raw_transactions_sample.csv,SampleExport,15
+2024-01-16,2024,1,January,2024-01,food,expense,140.0,-140.0,LUNA CAFE,luna_cafe,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,16
+2024-01-16,2024,1,January,2024-01,other_things,expense,780.0,-780.0,NOVA BOOKS,nova_books,shopping,exact_rule,books,capital,one_off,raw_transactions_sample.csv,SampleExport,16
+2024-01-17,2024,1,January,2024-01,food,expense,620.0,-620.0,PIER PIZZA,pier_pizza,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,17
+2024-01-17,2024,1,January,2024-01,other_things,expense,120.0,-120.0,Weekend Trip,weekend_trip,needs_review,needs_review,,operating,recurring,raw_transactions_sample.csv,SampleExport,17
+2024-01-18,2024,1,January,2024-01,food,expense,140.0,-140.0,LUNA CAFE,luna_cafe,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,18
+2024-01-18,2024,1,January,2024-01,other_things,expense,120.0,-120.0,Weekend Trip,weekend_trip,needs_review,needs_review,,operating,recurring,raw_transactions_sample.csv,SampleExport,18
+2024-01-19,2024,1,January,2024-01,food,expense,85.0,-85.0,Spark Soda,spark_soda,snacks_drinks,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,19
+2024-01-19,2024,1,January,2024-01,housing_utilities,expense,4200.0,-4200.0,,,housing_utilities,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,19
+2024-01-19,2024,1,January,2024-01,subscriptions,expense,550.0,-550.0,FIT CIRCLE,fit_circle,subscriptions,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,19
+2024-01-22,2024,1,January,2024-01,food,expense,410.0,-410.0,Pier Pizza,pier_pizza,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,20
+2024-01-22,2024,1,January,2024-01,transport,expense,80.0,-80.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,20
+2024-01-23,2024,1,January,2024-01,food,expense,410.0,-410.0,Pier Pizza,pier_pizza,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,21
+2024-01-23,2024,1,January,2024-01,other_things,expense,980.0,-980.0,trail outfitters,trail_outfitters,shopping,exact_rule,travel,capital,one_off,raw_transactions_sample.csv,SampleExport,21
+2024-01-23,2024,1,January,2024-01,transport,expense,45.0,-45.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,21
+2024-01-24,2024,1,January,2024-01,food,expense,760.0,-760.0,FRESH BASKET,fresh_basket,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,22
+2024-01-26,2024,1,January,2024-01,food,expense,260.0,-260.0,comet burgers,comet_burgers,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,23
+2024-01-26,2024,1,January,2024-01,other_things,expense,960.0,-960.0,orbit pharmacy,orbit_pharmacy,healthcare,exact_rule,,operating,one_off,raw_transactions_sample.csv,SampleExport,23
+2024-01-26,2024,1,January,2024-01,transport,expense,45.0,-45.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,23
+2024-01-30,2024,1,January,2024-01,family,expense,1200.0,-1200.0,House Allowance,house_allowance,family_support,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,24
+2024-01-30,2024,1,January,2024-01,food,expense,55.0,-55.0,Spark Soda,spark_soda,snacks_drinks,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,24
+2024-01-30,2024,1,January,2024-01,transport,expense,80.0,-80.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,24
+2024-01-30,2024,1,January,2024-01,food,expense,120.0,-120.0, harbor mart ,harbor_mart,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,25
+2024-01-30,2024,1,January,2024-01,other_things,expense,610.0,-610.0,gift loft ,gift_loft,family_support,exact_rule,,operating,one_off,raw_transactions_sample.csv,SampleExport,25
+2024-02-01,2024,2,February,2024-02,food,expense,640.0,-640.0,NORTHSIDE GROCER,northside_grocer,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,26
+2024-02-01,2024,2,February,2024-02,income,income,24000.0,24000.0,monthly payroll,monthly_payroll,salary,exact_rule,,income,recurring,raw_transactions_sample.csv,SampleExport,26
+2024-02-02,2024,2,February,2024-02,food,expense,210.0,-210.0,Fresh  Basket,fresh_basket,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,27
+2024-02-02,2024,2,February,2024-02,other_things,expense,450.0,-450.0,metro home,metro_home,shopping,exact_rule,household,capital,one_off,raw_transactions_sample.csv,SampleExport,27
+2024-02-02,2024,2,February,2024-02,food,expense,160.0,-160.0,Daily Roaster,daily_roaster,snacks_drinks,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,28
+2024-02-05,2024,2,February,2024-02,food,expense,360.0,-360.0,Northside  Grocer,northside_grocer,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,29
+2024-02-07,2024,2,February,2024-02,food,expense,980.0,-980.0,Northside Grocer,northside_grocer,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,30
+2024-02-07,2024,2,February,2024-02,transport,expense,45.0,-45.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,30
+2024-02-08,2024,2,February,2024-02,food,expense,180.0,-180.0,NORTHSIDE GROCER,northside_grocer,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,31
+2024-02-08,2024,2,February,2024-02,other_things,expense,2600.0,-2600.0,pixel hub,pixel_hub,home_office,exact_rule,electronics,capital,one_off,raw_transactions_sample.csv,SampleExport,31
+2024-02-08,2024,2,February,2024-02,subscriptions,expense,199.0,-199.0,Cloud Box,cloud_box,needs_review,needs_review,,operating,recurring,raw_transactions_sample.csv,SampleExport,31
+2024-02-08,2024,2,February,2024-02,transport,expense,80.0,-80.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,31
+2024-02-09,2024,2,February,2024-02,food,expense,160.0,-160.0,Daily  Roaster,daily_roaster,snacks_drinks,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,32
+2024-02-09,2024,2,February,2024-02,transport,expense,340.0,-340.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,32
+2024-02-12,2024,2,February,2024-02,food,expense,410.0,-410.0,pier pizza,pier_pizza,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,33
+2024-02-12,2024,2,February,2024-02,housing_utilities,expense,3800.0,-3800.0,,,housing_utilities,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,33
+2024-02-12,2024,2,February,2024-02,other_things,expense,420.0,-420.0,orbit pharmacy,orbit_pharmacy,healthcare,exact_rule,,operating,one_off,raw_transactions_sample.csv,SampleExport,33
+2024-02-13,2024,2,February,2024-02,food,expense,980.0,-980.0,NORTHSIDE GROCER,northside_grocer,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,34
+2024-02-13,2024,2,February,2024-02,transport,expense,240.0,-240.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,34
+2024-02-15,2024,2,February,2024-02,family,expense,320.0,-320.0,School Lunch,school_lunch,family_support,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,35
+2024-02-15,2024,2,February,2024-02,food,expense,320.0,-320.0,Luna Cafe,luna_cafe,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,35
+2024-02-15,2024,2,February,2024-02,income,income,23000.0,23000.0,Payroll - Main,payroll_main,salary,keyword_rule,,income,recurring,raw_transactions_sample.csv,SampleExport,35
+2024-02-15,2024,2,February,2024-02,other_things,expense,1820.0,-1820.0,TRAIL OUTFITTERS,trail_outfitters,shopping,exact_rule,travel,capital,one_off,raw_transactions_sample.csv,SampleExport,35
+2024-02-16,2024,2,February,2024-02,family,expense,220.0,-220.0,Family Gift,family_gift,family_support,exact_rule,,operating,one_off,raw_transactions_sample.csv,SampleExport,36
+2024-02-16,2024,2,February,2024-02,food,expense,260.0,-260.0,COMET BURGERS,comet_burgers,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,36
+2024-02-16,2024,2,February,2024-02,subscriptions,expense,249.0,-249.0,STREAMLY,streamly,subscriptions,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,36
+2024-02-19,2024,2,February,2024-02,food,expense,140.0,-140.0,Luna  Cafe,luna_cafe,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,37
+2024-02-19,2024,2,February,2024-02,transport,expense,160.0,-160.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,37
+2024-02-19,2024,2,February,2024-02,food,expense,640.0,-640.0,NORTHSIDE GROCER,northside_grocer,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,38
+2024-02-19,2024,2,February,2024-02,other_things,expense,940.0,-940.0,Weekend Trip,weekend_trip,needs_review,needs_review,,operating,recurring,raw_transactions_sample.csv,SampleExport,38
+2024-02-21,2024,2,February,2024-02,food,expense,210.0,-210.0,Fresh  Basket,fresh_basket,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,39
+2024-02-26,2024,2,February,2024-02,family,expense,880.0,-880.0,family medicine,family_medicine,healthcare,exact_rule,,operating,one_off,raw_transactions_sample.csv,SampleExport,40
+2024-02-26,2024,2,February,2024-02,food,expense,140.0,-140.0,luna cafe ,luna_cafe,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,40
+2024-02-26,2024,2,February,2024-02,other_things,expense,360.0,-360.0,Mango Shake Kiosk,mango_shake_kiosk,needs_review,needs_review,,operating,recurring,raw_transactions_sample.csv,SampleExport,40
+2024-02-27,2024,2,February,2024-02,food,expense,110.0,-110.0,Spark Soda,spark_soda,snacks_drinks,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,41
+2024-02-28,2024,2,February,2024-02,food,expense,420.0,-420.0,Fresh  Basket,fresh_basket,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,42
+2024-02-29,2024,2,February,2024-02,family,expense,450.0,-450.0,Family Gift,family_gift,family_support,exact_rule,,operating,one_off,raw_transactions_sample.csv,SampleExport,43
+2024-02-29,2024,2,February,2024-02,food,expense,980.0,-980.0,NORTHSIDE GROCER,northside_grocer,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,43
+2024-02-29,2024,2,February,2024-02,housing_utilities,expense,3800.0,-3800.0,,,housing_utilities,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,43
+2024-03-01,2024,3,March,2024-03,food,expense,640.0,-640.0,Northside  Grocer,northside_grocer,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,44
+2024-03-01,2024,3,March,2024-03,income,income,23000.0,23000.0,Monthly Payroll,monthly_payroll,salary,exact_rule,,income,recurring,raw_transactions_sample.csv,SampleExport,44
+2024-03-01,2024,3,March,2024-03,transport,expense,340.0,-340.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,44
+2024-03-04,2024,3,March,2024-03,food,expense,80.0,-80.0,daily roaster,daily_roaster,snacks_drinks,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,45
+2024-03-04,2024,3,March,2024-03,transport,expense,160.0,-160.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,45
+2024-03-04,2024,3,March,2024-03,food,expense,420.0,-420.0,FRESH BASKET,fresh_basket,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,46
+2024-03-05,2024,3,March,2024-03,food,expense,640.0,-640.0,Northside Grocer,northside_grocer,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,47
+2024-03-05,2024,3,March,2024-03,other_things,expense,450.0,-450.0,Metro-Home,metro_home,shopping,exact_rule,household,capital,one_off,raw_transactions_sample.csv,SampleExport,47
+2024-03-06,2024,3,March,2024-03,family,expense,320.0,-320.0,SCHOOL LUNCH,school_lunch,family_support,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,48
+2024-03-06,2024,3,March,2024-03,food,expense,620.0,-620.0,pier pizza,pier_pizza,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,48
+2024-03-06,2024,3,March,2024-03,transport,expense,340.0,-340.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,48
+2024-03-07,2024,3,March,2024-03,food,expense,540.0,-540.0,Corner Cart,corner_cart,needs_review,needs_review,,operating,recurring,raw_transactions_sample.csv,SampleExport,49
+2024-03-08,2024,3,March,2024-03,food,expense,260.0,-260.0,Comet Burgers,comet_burgers,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,50
+2024-03-12,2024,3,March,2024-03,food,expense,120.0,-120.0,Mango Shake Kiosk,mango_shake_kiosk,needs_review,needs_review,,operating,recurring,raw_transactions_sample.csv,SampleExport,51
+2024-03-12,2024,3,March,2024-03,other_things,expense,640.0,-640.0,trail outfitters,trail_outfitters,shopping,exact_rule,travel,capital,one_off,raw_transactions_sample.csv,SampleExport,51
+2024-03-12,2024,3,March,2024-03,transport,expense,80.0,-80.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,51
+2024-03-13,2024,3,March,2024-03,food,expense,85.0,-85.0,Spark  Soda,spark_soda,snacks_drinks,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,52
+2024-03-13,2024,3,March,2024-03,food,expense,160.0,-160.0,daily roaster,daily_roaster,snacks_drinks,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,53
+2024-03-13,2024,3,March,2024-03,other_things,expense,390.0,-390.0,gift loft ,gift_loft,family_support,exact_rule,,operating,one_off,raw_transactions_sample.csv,SampleExport,53
+2024-03-14,2024,3,March,2024-03,food,expense,55.0,-55.0,spark soda,spark_soda,snacks_drinks,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,54
+2024-03-15,2024,3,March,2024-03,food,expense,340.0,-340.0, harbor mart ,harbor_mart,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,55
+2024-03-15,2024,3,March,2024-03,income,income,24000.0,24000.0,MONTHLY PAYROLL,monthly_payroll,salary,exact_rule,,income,recurring,raw_transactions_sample.csv,SampleExport,55
+2024-03-15,2024,3,March,2024-03,transport,expense,120.0,-120.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,55
+2024-03-18,2024,3,March,2024-03,family,expense,1200.0,-1200.0,House Allowance,house_allowance,family_support,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,56
+2024-03-18,2024,3,March,2024-03,food,expense,980.0,-980.0,NORTHSIDE GROCER,northside_grocer,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,56
+2024-03-18,2024,3,March,2024-03,other_things,expense,420.0,-420.0,Orbit Pharmacy,orbit_pharmacy,healthcare,exact_rule,,operating,one_off,raw_transactions_sample.csv,SampleExport,56
+2024-03-18,2024,3,March,2024-03,transport,expense,45.0,-45.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,56
+2024-03-18,2024,3,March,2024-03,food,expense,55.0,-55.0,Spark Soda,spark_soda,snacks_drinks,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,57
+2024-03-18,2024,3,March,2024-03,other_things,expense,390.0,-390.0,Weekend Trip,weekend_trip,needs_review,needs_review,,operating,recurring,raw_transactions_sample.csv,SampleExport,57
+2024-03-19,2024,3,March,2024-03,food,expense,160.0,-160.0,daily roaster,daily_roaster,snacks_drinks,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,58
+2024-03-19,2024,3,March,2024-03,subscriptions,expense,120.0,-120.0,music now,music_now,subscriptions,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,58
+2024-03-19,2024,3,March,2024-03,transport,expense,160.0,-160.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,58
+2024-03-19,2024,3,March,2024-03,food,expense,210.0,-210.0,Fresh Basket,fresh_basket,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,59
+2024-03-20,2024,3,March,2024-03,food,expense,140.0,-140.0,Luna Cafe,luna_cafe,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,60
+2024-03-21,2024,3,March,2024-03,food,expense,120.0,-120.0,daily roaster,daily_roaster,snacks_drinks,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,61
+2024-03-22,2024,3,March,2024-03,food,expense,260.0,-260.0,COMET BURGERS,comet_burgers,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,62
+2024-03-22,2024,3,March,2024-03,other_things,expense,980.0,-980.0,Trail Outfitters,trail_outfitters,shopping,exact_rule,travel,capital,one_off,raw_transactions_sample.csv,SampleExport,62
+2024-03-25,2024,3,March,2024-03,food,expense,210.0,-210.0,fresh basket,fresh_basket,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,63
+2024-03-25,2024,3,March,2024-03,other_things,expense,260.0,-260.0,Nova  Books,nova_books,shopping,exact_rule,books,capital,one_off,raw_transactions_sample.csv,SampleExport,63
+2024-03-25,2024,3,March,2024-03,transport,expense,160.0,-160.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,63
+2024-03-28,2024,3,March,2024-03,food,expense,640.0,-640.0,Northside  Grocer,northside_grocer,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,64
+2024-03-28,2024,3,March,2024-03,other_things,expense,960.0,-960.0,Orbit Pharmacy,orbit_pharmacy,healthcare,exact_rule,,operating,one_off,raw_transactions_sample.csv,SampleExport,64
+2024-03-29,2024,3,March,2024-03,food,expense,420.0,-420.0,FRESH BASKET,fresh_basket,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,65
+2024-03-29,2024,3,March,2024-03,transport,expense,45.0,-45.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,65
+2024-04-01,2024,4,April,2024-04,food,expense,420.0,-420.0,Fresh  Basket,fresh_basket,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,66
+2024-04-01,2024,4,April,2024-04,income,income,23000.0,23000.0,Payroll - Main,payroll_main,salary,keyword_rule,,income,recurring,raw_transactions_sample.csv,SampleExport,66
+2024-04-01,2024,4,April,2024-04,transport,expense,160.0,-160.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,66
+2024-04-02,2024,4,April,2024-04,food,expense,110.0,-110.0,Spark  Soda,spark_soda,snacks_drinks,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,67
+2024-04-02,2024,4,April,2024-04,housing_utilities,expense,4200.0,-4200.0,,,housing_utilities,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,67
+2024-04-02,2024,4,April,2024-04,other_things,expense,960.0,-960.0,orbit pharmacy,orbit_pharmacy,healthcare,exact_rule,,operating,one_off,raw_transactions_sample.csv,SampleExport,67
+2024-04-03,2024,4,April,2024-04,food,expense,360.0,-360.0,NORTHSIDE GROCER,northside_grocer,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,68
+2024-04-03,2024,4,April,2024-04,transport,expense,80.0,-80.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,68
+2024-04-04,2024,4,April,2024-04,food,expense,620.0,-620.0,Pier Pizza,pier_pizza,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,69
+2024-04-04,2024,4,April,2024-04,transport,expense,80.0,-80.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,69
+2024-04-05,2024,4,April,2024-04,food,expense,360.0,-360.0,Corner Cart,corner_cart,needs_review,needs_review,,operating,recurring,raw_transactions_sample.csv,SampleExport,70
+2024-04-05,2024,4,April,2024-04,other_things,expense,2600.0,-2600.0,PIXEL HUB,pixel_hub,home_office,exact_rule,electronics,capital,one_off,raw_transactions_sample.csv,SampleExport,70
+2024-04-08,2024,4,April,2024-04,food,expense,55.0,-55.0,Spark Soda,spark_soda,snacks_drinks,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,71
+2024-04-08,2024,4,April,2024-04,transport,expense,340.0,-340.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,71
+2024-04-09,2024,4,April,2024-04,food,expense,120.0,-120.0,HARBOR MART,harbor_mart,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,72
+2024-04-09,2024,4,April,2024-04,other_things,expense,780.0,-780.0,Metro-Home,metro_home,shopping,exact_rule,household,capital,one_off,raw_transactions_sample.csv,SampleExport,72
+2024-04-09,2024,4,April,2024-04,transport,expense,340.0,-340.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,72
+2024-04-11,2024,4,April,2024-04,food,expense,260.0,-260.0,Comet Burgers,comet_burgers,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,73
+2024-04-11,2024,4,April,2024-04,other_things,expense,1350.0,-1350.0,metro home,metro_home,shopping,exact_rule,household,capital,one_off,raw_transactions_sample.csv,SampleExport,73
+2024-04-11,2024,4,April,2024-04,subscriptions,expense,120.0,-120.0,Music Now,music_now,subscriptions,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,73
+2024-04-12,2024,4,April,2024-04,family,expense,180.0,-180.0,SCHOOL LUNCH,school_lunch,family_support,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,74
+2024-04-12,2024,4,April,2024-04,food,expense,140.0,-140.0,Luna Cafe,luna_cafe,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,74
+2024-04-12,2024,4,April,2024-04,housing_utilities,expense,4500.0,-4500.0,,,housing_utilities,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,74
+2024-04-15,2024,4,April,2024-04,food,expense,580.0,-580.0,Harbor-Mart,harbor_mart,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,75
+2024-04-15,2024,4,April,2024-04,income,income,5200.0,5200.0,consulting client,consulting_client,freelance,exact_rule,,income,one_off,raw_transactions_sample.csv,SampleExport,75
+2024-04-15,2024,4,April,2024-04,transport,expense,160.0,-160.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,75
+2024-04-16,2024,4,April,2024-04,food,expense,320.0,-320.0,Luna Cafe,luna_cafe,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,76
+2024-04-16,2024,4,April,2024-04,transport,expense,160.0,-160.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,76
+2024-04-17,2024,4,April,2024-04,food,expense,120.0,-120.0, harbor mart ,harbor_mart,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,77
+2024-04-17,2024,4,April,2024-04,transport,expense,120.0,-120.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,77
+2024-04-18,2024,4,April,2024-04,food,expense,390.0,-390.0,comet burgers,comet_burgers,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,78
+2024-04-18,2024,4,April,2024-04,other_things,expense,940.0,-940.0,Gift Loft,gift_loft,family_support,exact_rule,,operating,one_off,raw_transactions_sample.csv,SampleExport,78
+2024-04-18,2024,4,April,2024-04,food,expense,210.0,-210.0,Fresh Basket,fresh_basket,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,79
+2024-04-19,2024,4,April,2024-04,food,expense,980.0,-980.0,NORTHSIDE GROCER,northside_grocer,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,80
+2024-04-19,2024,4,April,2024-04,other_things,expense,880.0,-880.0,Weekend Trip,weekend_trip,needs_review,needs_review,,operating,recurring,raw_transactions_sample.csv,SampleExport,80
+2024-04-19,2024,4,April,2024-04,transport,expense,160.0,-160.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,80
+2024-04-22,2024,4,April,2024-04,food,expense,140.0,-140.0,Luna Cafe,luna_cafe,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,81
+2024-04-25,2024,4,April,2024-04,food,expense,220.0,-220.0,Luna Cafe,luna_cafe,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,82
+2024-04-25,2024,4,April,2024-04,transport,expense,80.0,-80.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,82
+2024-04-26,2024,4,April,2024-04,food,expense,110.0,-110.0,Spark  Soda,spark_soda,snacks_drinks,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,83
+2024-04-26,2024,4,April,2024-04,subscriptions,expense,650.0,-650.0,FIT CIRCLE,fit_circle,subscriptions,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,83
+2024-04-26,2024,4,April,2024-04,transport,expense,340.0,-340.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,83
+2024-04-29,2024,4,April,2024-04,food,expense,250.0,-250.0,PIER PIZZA,pier_pizza,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,84
+2024-04-29,2024,4,April,2024-04,other_things,expense,1450.0,-1450.0,Pixel  Hub,pixel_hub,home_office,exact_rule,electronics,capital,one_off,raw_transactions_sample.csv,SampleExport,84
+2024-04-29,2024,4,April,2024-04,transport,expense,160.0,-160.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,84
+2024-04-30,2024,4,April,2024-04,food,expense,95.0,-95.0,FRESH BASKET,fresh_basket,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,85
+2024-04-30,2024,4,April,2024-04,transport,expense,340.0,-340.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,85
+2024-05-01,2024,5,May,2024-05,food,expense,85.0,-85.0,SPARK SODA,spark_soda,snacks_drinks,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,86
+2024-05-01,2024,5,May,2024-05,income,income,23000.0,23000.0,Monthly Payroll,monthly_payroll,salary,exact_rule,,income,recurring,raw_transactions_sample.csv,SampleExport,86
+2024-05-01,2024,5,May,2024-05,other_things,expense,450.0,-450.0,,,other_things,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,86
+2024-05-02,2024,5,May,2024-05,food,expense,620.0,-620.0,pier pizza,pier_pizza,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,87
+2024-05-02,2024,5,May,2024-05,subscriptions,expense,160.0,-160.0,music now,music_now,subscriptions,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,87
+2024-05-03,2024,5,May,2024-05,food,expense,420.0,-420.0,fresh basket,fresh_basket,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,88
+2024-05-06,2024,5,May,2024-05,food,expense,920.0,-920.0,Harbor Mart,harbor_mart,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,89
+2024-05-06,2024,5,May,2024-05,other_things,expense,980.0,-980.0,trail outfitters,trail_outfitters,shopping,exact_rule,travel,capital,one_off,raw_transactions_sample.csv,SampleExport,89
+2024-05-06,2024,5,May,2024-05,subscriptions,expense,360.0,-360.0,Mango Shake Kiosk,mango_shake_kiosk,needs_review,needs_review,,operating,recurring,raw_transactions_sample.csv,SampleExport,89
+2024-05-07,2024,5,May,2024-05,food,expense,250.0,-250.0,Pier Pizza,pier_pizza,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,90
+2024-05-07,2024,5,May,2024-05,transport,expense,120.0,-120.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,90
+2024-05-08,2024,5,May,2024-05,family,expense,480.0,-480.0,SCHOOL LUNCH,school_lunch,family_support,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,91
+2024-05-08,2024,5,May,2024-05,food,expense,80.0,-80.0,Daily  Roaster,daily_roaster,snacks_drinks,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,91
+2024-05-08,2024,5,May,2024-05,other_things,expense,260.0,-260.0,NOVA BOOKS,nova_books,shopping,exact_rule,books,capital,one_off,raw_transactions_sample.csv,SampleExport,91
+2024-05-08,2024,5,May,2024-05,transport,expense,240.0,-240.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,91
+2024-05-09,2024,5,May,2024-05,food,expense,580.0,-580.0, harbor mart ,harbor_mart,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,92
+2024-05-09,2024,5,May,2024-05,transport,expense,240.0,-240.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,92
+2024-05-10,2024,5,May,2024-05,food,expense,620.0,-620.0,pier pizza,pier_pizza,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,93
+2024-05-10,2024,5,May,2024-05,other_things,expense,1350.0,-1350.0,Metro Home,metro_home,shopping,exact_rule,household,capital,one_off,raw_transactions_sample.csv,SampleExport,93
+2024-05-10,2024,5,May,2024-05,transport,expense,160.0,-160.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,93
+2024-05-10,2024,5,May,2024-05,food,expense,120.0,-120.0,,,food,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,94
+2024-05-13,2024,5,May,2024-05,food,expense,120.0,-120.0,daily roaster,daily_roaster,snacks_drinks,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,95
+2024-05-13,2024,5,May,2024-05,transport,expense,240.0,-240.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,95
+2024-05-14,2024,5,May,2024-05,food,expense,180.0,-180.0,Comet-Burgers,comet_burgers,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,96
+2024-05-14,2024,5,May,2024-05,other_things,expense,420.0,-420.0,nova books,nova_books,shopping,exact_rule,books,capital,one_off,raw_transactions_sample.csv,SampleExport,96
+2024-05-15,2024,5,May,2024-05,food,expense,95.0,-95.0,fresh basket,fresh_basket,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,97
+2024-05-15,2024,5,May,2024-05,income,income,22000.0,22000.0,MONTHLY PAYROLL,monthly_payroll,salary,exact_rule,,income,recurring,raw_transactions_sample.csv,SampleExport,97
+2024-05-15,2024,5,May,2024-05,transport,expense,45.0,-45.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,97
+2024-05-16,2024,5,May,2024-05,family,expense,620.0,-620.0,family medicine,family_medicine,healthcare,exact_rule,,operating,one_off,raw_transactions_sample.csv,SampleExport,98
+2024-05-16,2024,5,May,2024-05,food,expense,80.0,-80.0,daily roaster,daily_roaster,snacks_drinks,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,98
+2024-05-16,2024,5,May,2024-05,other_things,expense,780.0,-780.0,Metro Home,metro_home,shopping,exact_rule,household,capital,one_off,raw_transactions_sample.csv,SampleExport,98
+2024-05-16,2024,5,May,2024-05,transport,expense,80.0,-80.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,98
+2024-05-16,2024,5,May,2024-05,food,expense,390.0,-390.0,,,food,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,99
+2024-05-17,2024,5,May,2024-05,food,expense,180.0,-180.0,NORTHSIDE GROCER,northside_grocer,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,100
+2024-05-17,2024,5,May,2024-05,transport,expense,120.0,-120.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,100
+2024-05-17,2024,5,May,2024-05,food,expense,260.0,-260.0,COMET BURGERS,comet_burgers,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,101
+2024-05-20,2024,5,May,2024-05,food,expense,340.0,-340.0, harbor mart ,harbor_mart,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,102
+2024-05-20,2024,5,May,2024-05,housing_utilities,expense,3800.0,-3800.0,,,housing_utilities,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,102
+2024-05-20,2024,5,May,2024-05,food,expense,180.0,-180.0,Comet-Burgers,comet_burgers,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,103
+2024-05-21,2024,5,May,2024-05,food,expense,980.0,-980.0,NORTHSIDE GROCER,northside_grocer,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,104
+2024-05-21,2024,5,May,2024-05,subscriptions,expense,299.0,-299.0,Cloud Box,cloud_box,needs_review,needs_review,,operating,recurring,raw_transactions_sample.csv,SampleExport,104
+2024-05-22,2024,5,May,2024-05,food,expense,640.0,-640.0,Northside  Grocer,northside_grocer,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,105
+2024-05-22,2024,5,May,2024-05,food,expense,420.0,-420.0,FRESH BASKET,fresh_basket,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,106
+2024-05-23,2024,5,May,2024-05,family,expense,900.0,-900.0,House Allowance,house_allowance,family_support,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,107
+2024-05-23,2024,5,May,2024-05,food,expense,360.0,-360.0,Corner Cart,corner_cart,needs_review,needs_review,,operating,recurring,raw_transactions_sample.csv,SampleExport,107
+2024-05-23,2024,5,May,2024-05,housing_utilities,expense,3500.0,-3500.0,,,housing_utilities,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,107
+2024-05-27,2024,5,May,2024-05,food,expense,180.0,-180.0,COMET BURGERS,comet_burgers,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,108
+2024-05-27,2024,5,May,2024-05,housing_utilities,expense,4200.0,-4200.0,,,housing_utilities,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,108
+2024-05-27,2024,5,May,2024-05,transport,expense,240.0,-240.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,108
+2024-05-29,2024,5,May,2024-05,food,expense,180.0,-180.0,NORTHSIDE GROCER,northside_grocer,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,109
+2024-05-29,2024,5,May,2024-05,transport,expense,240.0,-240.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,109
+2024-05-29,2024,5,May,2024-05,food,expense,85.0,-85.0,Spark Soda,spark_soda,snacks_drinks,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,110
+2024-05-29,2024,5,May,2024-05,other_things,expense,940.0,-940.0,Mango Shake Kiosk,mango_shake_kiosk,needs_review,needs_review,,operating,recurring,raw_transactions_sample.csv,SampleExport,110
+2024-05-30,2024,5,May,2024-05,food,expense,250.0,-250.0,PIER PIZZA,pier_pizza,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,111
+2024-05-31,2024,5,May,2024-05,food,expense,95.0,-95.0,Fresh  Basket,fresh_basket,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,112
+2024-05-31,2024,5,May,2024-05,other_things,expense,520.0,-520.0,gift loft,gift_loft,family_support,exact_rule,,operating,one_off,raw_transactions_sample.csv,SampleExport,112
+2024-05-31,2024,5,May,2024-05,transport,expense,120.0,-120.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,112
+2024-05-31,2024,5,May,2024-05,food,expense,55.0,-55.0,Spark  Soda,spark_soda,snacks_drinks,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,113
+2024-06-03,2024,6,June,2024-06,food,expense,360.0,-360.0,northside grocer,northside_grocer,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,114
+2024-06-03,2024,6,June,2024-06,other_things,expense,780.0,-780.0,metro home,metro_home,shopping,exact_rule,household,capital,one_off,raw_transactions_sample.csv,SampleExport,114
+2024-06-03,2024,6,June,2024-06,subscriptions,expense,160.0,-160.0,MUSIC NOW,music_now,subscriptions,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,114
+2024-06-04,2024,6,June,2024-06,family,expense,450.0,-450.0,family gift,family_gift,family_support,exact_rule,,operating,one_off,raw_transactions_sample.csv,SampleExport,115
+2024-06-04,2024,6,June,2024-06,food,expense,120.0,-120.0,,,food,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,115
+2024-06-04,2024,6,June,2024-06,other_things,expense,960.0,-960.0,ORBIT PHARMACY,orbit_pharmacy,healthcare,exact_rule,,operating,one_off,raw_transactions_sample.csv,SampleExport,115
+2024-06-04,2024,6,June,2024-06,food,expense,360.0,-360.0,Corner Cart,corner_cart,needs_review,needs_review,,operating,recurring,raw_transactions_sample.csv,SampleExport,116
+2024-06-05,2024,6,June,2024-06,food,expense,640.0,-640.0,NORTHSIDE GROCER,northside_grocer,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,117
+2024-06-05,2024,6,June,2024-06,other_things,expense,420.0,-420.0,Nova  Books,nova_books,shopping,exact_rule,books,capital,one_off,raw_transactions_sample.csv,SampleExport,117
+2024-06-06,2024,6,June,2024-06,food,expense,55.0,-55.0,Spark  Soda,spark_soda,snacks_drinks,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,118
+2024-06-06,2024,6,June,2024-06,transport,expense,120.0,-120.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,118
+2024-06-07,2024,6,June,2024-06,food,expense,340.0,-340.0,,,food,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,119
+2024-06-07,2024,6,June,2024-06,transport,expense,45.0,-45.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,119
+2024-06-11,2024,6,June,2024-06,food,expense,980.0,-980.0,Northside Grocer,northside_grocer,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,120
+2024-06-11,2024,6,June,2024-06,other_things,expense,360.0,-360.0,Weekend Trip,weekend_trip,needs_review,needs_review,,operating,recurring,raw_transactions_sample.csv,SampleExport,120
+2024-06-11,2024,6,June,2024-06,food,expense,410.0,-410.0,PIER PIZZA,pier_pizza,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,121
+2024-06-11,2024,6,June,2024-06,other_things,expense,220.0,-220.0,gift loft ,gift_loft,family_support,exact_rule,,operating,one_off,raw_transactions_sample.csv,SampleExport,121
+2024-06-12,2024,6,June,2024-06,food,expense,320.0,-320.0,Luna Cafe,luna_cafe,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,122
+2024-06-12,2024,6,June,2024-06,other_things,expense,2600.0,-2600.0,pixel hub,pixel_hub,home_office,exact_rule,electronics,capital,one_off,raw_transactions_sample.csv,SampleExport,122
+2024-06-12,2024,6,June,2024-06,transport,expense,45.0,-45.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,122
+2024-06-13,2024,6,June,2024-06,food,expense,390.0,-390.0,Comet-Burgers,comet_burgers,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,123
+2024-06-13,2024,6,June,2024-06,other_things,expense,420.0,-420.0,Nova Books,nova_books,shopping,exact_rule,books,capital,one_off,raw_transactions_sample.csv,SampleExport,123
+2024-06-13,2024,6,June,2024-06,food,expense,180.0,-180.0,northside grocer,northside_grocer,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,124
+2024-06-14,2024,6,June,2024-06,family,expense,340.0,-340.0,FAMILY MEDICINE,family_medicine,healthcare,exact_rule,,operating,one_off,raw_transactions_sample.csv,SampleExport,125
+2024-06-14,2024,6,June,2024-06,food,expense,250.0,-250.0,pier pizza,pier_pizza,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,125
+2024-06-14,2024,6,June,2024-06,transport,expense,80.0,-80.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,125
+2024-06-17,2024,6,June,2024-06,food,expense,980.0,-980.0,northside grocer,northside_grocer,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,126
+2024-06-17,2024,6,June,2024-06,transport,expense,240.0,-240.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,126
+2024-06-18,2024,6,June,2024-06,food,expense,920.0,-920.0,Harbor Mart,harbor_mart,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,127
+2024-06-19,2024,6,June,2024-06,food,expense,95.0,-95.0,Fresh  Basket,fresh_basket,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,128
+2024-06-19,2024,6,June,2024-06,housing_utilities,expense,4500.0,-4500.0,,,housing_utilities,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,128
+2024-06-19,2024,6,June,2024-06,food,expense,340.0,-340.0,Harbor-Mart,harbor_mart,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,129
+2024-06-20,2024,6,June,2024-06,family,expense,620.0,-620.0,FAMILY MEDICINE,family_medicine,healthcare,exact_rule,,operating,one_off,raw_transactions_sample.csv,SampleExport,130
+2024-06-20,2024,6,June,2024-06,food,expense,250.0,-250.0,pier pizza,pier_pizza,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,130
+2024-06-20,2024,6,June,2024-06,transport,expense,240.0,-240.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,130
+2024-06-21,2024,6,June,2024-06,family,expense,450.0,-450.0,,,family,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,131
+2024-06-21,2024,6,June,2024-06,food,expense,580.0,-580.0,Harbor Mart,harbor_mart,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,131
+2024-06-21,2024,6,June,2024-06,subscriptions,expense,650.0,-650.0,fit circle,fit_circle,subscriptions,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,131
+2024-06-21,2024,6,June,2024-06,transport,expense,240.0,-240.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,131
+2024-06-21,2024,6,June,2024-06,food,expense,180.0,-180.0,Comet-Burgers,comet_burgers,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,132
+2024-06-24,2024,6,June,2024-06,food,expense,620.0,-620.0,PIER PIZZA,pier_pizza,restaurants,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,133
+2024-06-24,2024,6,June,2024-06,housing_utilities,expense,4500.0,-4500.0,,,housing_utilities,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,133
+2024-06-25,2024,6,June,2024-06,food,expense,540.0,-540.0,Corner Cart,corner_cart,needs_review,needs_review,,operating,recurring,raw_transactions_sample.csv,SampleExport,134
+2024-06-25,2024,6,June,2024-06,housing_utilities,expense,3400.0,-3400.0,,,housing_utilities,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,134
+2024-06-25,2024,6,June,2024-06,other_things,expense,520.0,-520.0,gift loft,gift_loft,family_support,exact_rule,,operating,one_off,raw_transactions_sample.csv,SampleExport,134
+2024-06-25,2024,6,June,2024-06,transport,expense,240.0,-240.0,,,transport,category_default_no_detail,,operating,recurring,raw_transactions_sample.csv,SampleExport,134
+2024-06-26,2024,6,June,2024-06,family,expense,500.0,-500.0,house allowance,house_allowance,family_support,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,135
+2024-06-26,2024,6,June,2024-06,food,expense,360.0,-360.0,Northside  Grocer,northside_grocer,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,135
+2024-06-27,2024,6,June,2024-06,food,expense,55.0,-55.0,spark soda,spark_soda,snacks_drinks,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,136
+2024-06-27,2024,6,June,2024-06,other_things,expense,360.0,-360.0,Corner Cart,corner_cart,needs_review,needs_review,,operating,recurring,raw_transactions_sample.csv,SampleExport,136
+2024-06-28,2024,6,June,2024-06,food,expense,760.0,-760.0,FRESH BASKET,fresh_basket,groceries,exact_rule,,operating,recurring,raw_transactions_sample.csv,SampleExport,137
